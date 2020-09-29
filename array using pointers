@@ -1,0 +1,21 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+int data[5];
+count<<"enter elements:";
+for(int i=0;i<5;++i)
+cin>> data[i];
+count<<"you entered:";
+for(int i=0;i<5;++i)
+count<<endl<<*(data+i);
+return 0;
+}
+
+
+
+
+
+
+
+
